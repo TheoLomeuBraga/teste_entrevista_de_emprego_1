@@ -1,0 +1,20 @@
+Questões para desenvolvimento em Javascript
+
+    1. Escreva um programa que recebe um valor numérico pelo teclado e imprime no console se o número
+     é par ou ímpar.
+
+    2. Escreva um programa que, com base em uma idade fornecida, classifica a pessoa nos grupos abaixo:
+        - Criança: 0 a 12 anos;
+        - Adolescente: 13 a 17 anos;
+        - Adulto: 18 a 65 anos;
+        - Sênior: 66 anos ou mais;
+ 	Idades negativas ou acima de 110 anos devem ser consideradas como inválidas.
+
+    3. Crie um gerador de tabuada de um número especificado ( solicitado via teclado ). 
+    A tabuada deve mostrar os valores da multiplicação de 1 a 10.
+
+    4. Crie uma classe “Account” para representar uma conta bancária. A conta deve ter um número 
+    associado e métodos para fazer depósito e saque. Não é possível fazer operações usando valores 
+    negativos ou igual a 0, e saques que deixam a conta com saldo negativo também não são permitidos. 
+    Crie também uma classe “savingAccount”. A diferença desse tipo de conta é que todos os depósitos 
+    feitos recebem 5% de incremento no valor, e saques nessa conta não são permitidos.
